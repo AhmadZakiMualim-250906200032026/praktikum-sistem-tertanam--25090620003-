@@ -1,0 +1,7 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/alu4s.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alu4s'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/js03_tugas2.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'alu4s'
+WARNING: [VRFC 10-3607] overwriting existing primary unit 'alu4s' [C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/js03_tugas2.vhd:5]
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4s.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_alu4s'

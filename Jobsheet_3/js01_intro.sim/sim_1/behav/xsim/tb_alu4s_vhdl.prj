@@ -1,0 +1,8 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../js01_intro.srcs/sources_1/new/alu4s.vhd" \
+"../../../../js01_intro.srcs/sources_1/new/js03_tugas2.vhd" \
+"../../../../js01_intro.srcs/sim_1/new/tb_alu4s.vhd" \
+
+# Do not sort compile order
+nosort

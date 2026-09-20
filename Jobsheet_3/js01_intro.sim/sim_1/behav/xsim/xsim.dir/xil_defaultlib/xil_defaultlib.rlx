@@ -1,0 +1,15 @@
+0.7
+2020.2
+Jun 16 2026
+11:10:11
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4.vhd,1789360932,vhdl,,,,tb_alu4,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4s.vhd,1789367949,vhdl,,,,tb_alu4s,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4x.vhd,1789365225,vhdl,,,,tb_alu4x,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_leading_one_detector.vhd,1789360126,vhdl,,,,tb_leading_one_detector,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_led_switch.vhd,1788235454,vhdl,,,,tb_led_switch,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/alu4.vhd,1789360819,vhdl,C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4.vhd,,,alu4,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/alu4s.vhd,1789367855,vhdl,,,,,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/alu4x.vhd,1789364861,vhdl,C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4x.vhd,,,alu4x,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/js03_tugas2.vhd,1789367874,vhdl,C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_alu4s.vhd,,,alu4s,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/leading_one_detector.vhd,1789359974,vhdl,C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_leading_one_detector.vhd,,,leading_one_detector,,,,,,,,
+C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sources_1/new/led_switch_top.vhd,1788235092,vhdl,C:/Users/Administrator/Documents/js01_intro/js01_intro.srcs/sim_1/new/tb_led_switch.vhd,,,led_switch_top,,,,,,,,

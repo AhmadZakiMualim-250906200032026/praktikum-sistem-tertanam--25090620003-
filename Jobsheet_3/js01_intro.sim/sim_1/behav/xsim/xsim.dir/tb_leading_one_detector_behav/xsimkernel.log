@@ -1,0 +1,4 @@
+Running: xsim.dir/tb_leading_one_detector_behav/xsimk.exe -simmode gui -wdb tb_leading_one_detector_behav.wdb -simrunnum 0 -socket 1788
+Design successfully loaded
+Design Loading Memory Usage: 15828 KB (Peak: 15828 KB)
+Design Loading CPU Usage: 140 ms
