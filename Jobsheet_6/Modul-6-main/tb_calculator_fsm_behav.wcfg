@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tb_calculator_fsm_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="tb_calculator_fsm" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1,651.200 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,716.401 ns"></ZoomEndTime>
+      <Cursor1Time time="1,671.200 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="166"></NameColumnWidth>
+      <ValueColumnWidth column_width="93"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="11" />
+   <wvobject fp_name="/tb_calculator_fsm/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/sw" type="array">
+      <obj_property name="ElementShortName">sw[15:0]</obj_property>
+      <obj_property name="ObjectShortName">sw[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/pu" type="logic">
+      <obj_property name="ElementShortName">pu</obj_property>
+      <obj_property name="ObjectShortName">pu</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/pd" type="logic">
+      <obj_property name="ElementShortName">pd</obj_property>
+      <obj_property name="ObjectShortName">pd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/pc" type="logic">
+      <obj_property name="ElementShortName">pc</obj_property>
+      <obj_property name="ObjectShortName">pc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/state_led" type="array">
+      <obj_property name="ElementShortName">state_led[3:0]</obj_property>
+      <obj_property name="ObjectShortName">state_led[3:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/disp" type="array">
+      <obj_property name="ElementShortName">disp[15:0]</obj_property>
+      <obj_property name="ObjectShortName">disp[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/flag" type="logic">
+      <obj_property name="ElementShortName">flag</obj_property>
+      <obj_property name="ObjectShortName">flag</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/DUT/state" type="other">
+      <obj_property name="ElementShortName">state</obj_property>
+      <obj_property name="ObjectShortName">state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_calculator_fsm/T" type="other">
+      <obj_property name="ElementShortName">T</obj_property>
+      <obj_property name="ObjectShortName">T</obj_property>
+   </wvobject>
+</wave_config>
