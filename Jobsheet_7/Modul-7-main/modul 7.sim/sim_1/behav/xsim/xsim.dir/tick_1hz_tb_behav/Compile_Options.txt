@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "tick_1hz_tb_behav" "xil_defaultlib.tick_1hz_tb" -log "elaborate.log" 

@@ -1,0 +1,34 @@
+INFO: [Common 17-3922] A valid Vivado Design Suite BASIC license has been detected. Your current license is active and will expire on 01-sep-2027.
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Oct 17 23:01:32 2026
+# Process ID         : 4068
+# Current directory  : C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent488 C:\Tugas Kuliah zaki\Semester 3\Praktik Sistem tertanam\Jobsheet_7\Modul-7-main\modul 7.xpr
+# Log file           : C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main/vivado.log
+# Journal file       : C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main\vivado.jou
+# Running On         : DESKTOP-COVUMB4
+# Platform           : Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 14913 MB
+# Swap memory        : 4311 MB
+# Total Virtual      : 19224 MB
+# Available Virtual  : 10033 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main/modul 7.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/Administrator/Documents/modul 7' since last save.
+INFO: [filemgmt 56-3] Default IP Output Path : Could not find the directory 'C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main/modul 7.gen/sources_1'.
+ScScanning sources..FiFinished scanning sourceWAWARNING: [Project 1-5713] Board part '' set for the project  is not found. BoardPart property will be unset. Please select board from latest repo buildININFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifieINFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Vivado/2026.1/Vivado/data/ip'.
+opopen_project: Time (s): cpu = 00:01:41 ; elapsed = 00:01:01 . Memory (MB): peak = 1737.691 ; gain = 345.812
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Oct 17 23:04:34 2026...

@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2026.1 (64-bit)
+# SW Build 6511674 on Tue Jun 16 11:02:23 MDT 2026
+# IP Build 6504888 on Tue Jun 09 09:05:25 MDT 2026
+# SharedData Build 6501428 on Mon Jun 08 17:34:18 MDT 2026
+# Start of session at: Sat Oct 17 23:01:32 2026
+# Process ID         : 4068
+# Current directory  : C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main
+# Command line       : vivado.exe -gui_launcher_event rodinguilauncherevent488 C:\Tugas Kuliah zaki\Semester 3\Praktik Sistem tertanam\Jobsheet_7\Modul-7-main\modul 7.xpr
+# Log file           : C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main/vivado.log
+# Journal file       : C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main\vivado.jou
+# Running On         : DESKTOP-COVUMB4
+# Platform           : Windows 10
+# Operating System   : 19045
+# Processor Detail   : AMD Ryzen 5 PRO 3500U w/ Radeon Vega Mobile Gfx
+# CPU Frequency      : 2096 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 14913 MB
+# Swap memory        : 4311 MB
+# Total Virtual      : 19224 MB
+# Available Virtual  : 10033 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Tugas Kuliah zaki/Semester 3/Praktik Sistem tertanam/Jobsheet_7/Modul-7-main/modul 7.xpr}
+upupdate_compile_order -fileset sources_1

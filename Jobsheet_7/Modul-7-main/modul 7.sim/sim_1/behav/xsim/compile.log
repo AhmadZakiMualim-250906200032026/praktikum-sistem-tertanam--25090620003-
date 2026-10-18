@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Administrator/Documents/modul 7/modul 7.srcs/sources_1/new/traffic_light_fsm.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'traffic_light_fsm'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/Administrator/Documents/modul 7/modul 7.srcs/sim_1/new/traffic_light_fsm_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'traffic_light_fsm_tb'
