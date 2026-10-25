@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+Note: Slave menerima data = 90
+Time: 192555 ns  Iteration: 3  Process: /tb_i2c_master/slave_proc  File: C:/Users/Administrator/Documents/modul 8/modul 8.srcs/sim_1/new/tb_i2c_master.vhd
+Note: Transaksi WRITE selesai, ack_error = '0'
+Time: 202555 ns  Iteration: 2  Process: /tb_i2c_master/stim_proc  File: C:/Users/Administrator/Documents/modul 8/modul 8.srcs/sim_1/new/tb_i2c_master.vhd
+Note: Transaksi READ selesai, data_rd = 165, ack_error = '0'
+Time: 422555 ns  Iteration: 2  Process: /tb_i2c_master/stim_proc  File: C:/Users/Administrator/Documents/modul 8/modul 8.srcs/sim_1/new/tb_i2c_master.vhd
+Note: Alamat salah: ack_error = '1' (NACK terdeteksi, sesuai harapan)
+Time: 552555 ns  Iteration: 2  Process: /tb_i2c_master/stim_proc  File: C:/Users/Administrator/Documents/modul 8/modul 8.srcs/sim_1/new/tb_i2c_master.vhd
+Note: SIMULASI SELESAI
+Time: 572555 ns  Iteration: 0  Process: /tb_i2c_master/stim_proc  File: C:/Users/Administrator/Documents/modul 8/modul 8.srcs/sim_1/new/tb_i2c_master.vhd
