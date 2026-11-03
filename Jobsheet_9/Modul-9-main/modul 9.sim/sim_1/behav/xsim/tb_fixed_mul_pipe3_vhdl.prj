@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../../../../Default/Downloads/jobsheet9/design/fixed_mul_pipe3.vhd" \
+"../../../../../../../Default/Downloads/jobsheet9/sim/tb_fixed_mul_pipe3.vhd" \
+
+# Do not sort compile order
+nosort
