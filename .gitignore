@@ -1,0 +1,18 @@
+
+# Vivado temporary logs
+Jobsheet_10/Modul-10-main/vivado.jou
+Jobsheet_10/Modul-10-main/vivado.log
+Jobsheet_10/Modul-10-main/vivado_pid15600.str
+
+# Vivado generated files
+**/modul 10.sim/
+**/modul 10.gen/
+**/modul 10.runs/
+**/modul 10.cache/
+**/modul 10.hw/
+**/xsim.dir/
+**/.Xil/
+*.wdb
+*.jou
+*.log
+*.str
